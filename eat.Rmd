@@ -70,6 +70,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+The top data set shows percentages for each race. About 83% of white people eatout. In the black race, about 69% eat out. In the other race, we see that about 72% eat out. We see the least variability in answers from the black race and the most in the white.
 
 ## Inferential Results
 
