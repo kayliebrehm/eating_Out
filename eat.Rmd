@@ -14,7 +14,7 @@ date: "Summer 2022"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Introduction
+# Introduction
 
 $H_0$ There is no difference among the various races with frequency of eating out  
 $H_A$ There is a statistical difference between at least two races with the frequency of eating out  
@@ -51,15 +51,13 @@ The response variable is whether or not someone dines out, which is categorical.
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
 
-
-
-
 ```{r}
 barchartGC(~race + eatout,data=mydata)
 barchartGC(~race + eatout,data=mydata, type="percent")
 
 ```
 
+Based on the data, it is apparent that the white race eats out more than the black or other race. The other race eats out slightly more than the black race. The black race eats out the least.
 
 ### Numerical Descriptive Results
 
