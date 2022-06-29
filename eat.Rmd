@@ -87,6 +87,7 @@ If there is a relationship between race and answer, then there is a difference, 
 
 # Discussion and Conclusion
 
+The null hypothesis was "There is no difference among the various races with frequency of eating out." I reject the null hypothesis due to a p-value so small, at 0.000002287 for the chi square test and 0.000004633 for the fisher exact test. We do see a difference between race and frequency of eating out. This is shown in bar chart. White people tend to eat out more compared to the black and other race.
 
 
 
